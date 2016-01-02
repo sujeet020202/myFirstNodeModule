@@ -1,0 +1,27 @@
+{
+  "name": "myfirstmodule",
+  "version": "1.0.0",
+  "description": "creating a test module",
+  "main": "hello.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "firstm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeet020202/myFirstNodeModule.git"
+  },
+  "keywords": [
+    "sujeet",
+    "firstmodule"
+  ],
+  "author": "sujeet dagor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujeet020202/myFirstNodeModule/issues"
+  },
+  "homepage": "https://github.com/sujeet020202/myFirstNodeModule#readme"
+}
